@@ -1,0 +1,108 @@
+{
+  "recipes": [
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "title": "Potato pancakes",
+      "description": "Using starchy potatoes is essential for making German potato pancakes. Russet, Idaho and Yukon Gold potatoes all work.",
+      "images": [
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2022%2F09%2F09%2FEWP2022_EatingWell_Potatoes-0236.jpg"
+      ],
+      "calories": 350,
+      "protein": 8,
+      "carbohydrates": 44,
+      "sugars": 4,
+      "fat": 17,
+      "cholesterol": 93,
+      "diet": "1",
+      "timeToMake": "55 minutes",
+      "servings": "4",
+      "servingSize": "3"
+    },
+    {
+      "id": "5154E9B3-8BD7-E142-E4848C147243",
+      "title": "Garlic-Butter Salmon Bites",
+      "description": "These garlic-butter salmon bites are melt-in-your-mouth delicious, with a simple marinade of butter, lemon juice and garlic.",
+      "images": [
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2022%2F08%2F17%2FJF_Garlic-Butter-Salmon-Bites_Square_2391.jpg"
+      ],
+      "calories": 211,
+      "protein": 23,
+      "carbohydrates": 0,
+      "sugars": 0,
+      "fat": 4,
+      "cholesterol": 78,
+      "diet": "3",
+      "timeToMake": "30 minutes",
+      "servings": "4",
+      "servingSize": "4 1/2 oz."
+    },
+    {
+      "id": "8BD7-3C0A-E142-E4848C147243",
+      "title": "Cinnamon-Roll Overnight Oats",
+      "description": "It takes just minutes to assemble this healthy no-cook breakfast, and you'll have meal-prepped grab-and-go breakfasts on hand for the rest of the week.",
+      "images": [
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2018%2F10%2F22%2F5888434.jpg"
+      ],
+      "calories": 191,
+      "protein": 6,
+      "carbohydrates": 32,
+      "sugars": 4,
+      "fat": 4,
+      "cholesterol": 0,
+      "diet": "2",
+      "timeToMake": "8 hours",
+      "servings": "5",
+      "servingSize": "2/3 cup"
+    },
+    {
+      "id": "5154E9B3-8BD7-3C0A-E142",
+      "title": "Creamy Chicken & Mushrooms",
+      "description": "Whether you scored wild mushrooms at the farmers' market, found cultivated maitake or shiitake at the supermarket or just have some baby bellas on hand, this healthy creamy chicken recipe is delicious with any of them.",
+      "images": [
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2019%2F10%2F4547290.jpg"
+      ],
+      "calories": 325,
+      "protein": 29.1,
+      "carbohydrates": 4.2,
+      "sugars": 2.5,
+      "fat": 19.6,
+      "cholesterol": 98.9,
+      "diet": "3",
+      "timeToMake": "30 minutes",
+      "servings": "4",
+      "servingSize": "1 cutlet & a generous 1/4 cup sauce"
+    },
+    {
+      "id": "5154E9B3-E142-E4848C147243",
+      "title": "Baked Banana-Nut Oatmeal Cups",
+      "description": "Muffins meet oatmeal in these moist and tasty grab-and-go oatmeal cups.",
+      "images": [
+        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2021%2F05%2F13%2FBaked-Banana-Nut-Oatmeal-Cups.jpg"
+      ],
+      "calories": 176,
+      "protein": 5.2,
+      "carbohydrates": 26.4,
+      "sugars": 10.5,
+      "fat": 6.2,
+      "cholesterol": 33.4,
+      "diet": "1",
+      "timeToMake": "50 minutes",
+      "servings": "12",
+      "servingSize": "1 muffin"
+    }
+  ],
+  "diet": [
+    {
+      "id": "1",
+      "title": "Vegetarian"
+    },
+    {
+      "id": "2",
+      "title": "Vegan"
+    },
+    {
+      "id": "3",
+      "title": "Not vegetarian/vegan"
+    }
+  ]
+}
