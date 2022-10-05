@@ -1,0 +1,52 @@
+**ADMIN**
+<MainPage>
+*EVERYTHING THE USER CAN DO*
+1. Can add new recipes to the database with a click of the "Add":hover button.
+2. Can delete recipes from the database with a click of the "Delete":hover button.
+3. Can edit current recipes on the page with a click of the "Edit":hover button.
+4. Can access admin panel with a click of the "Admin" button on the navBar.
+    4.1.<AdminPanel>
+            1. Can view total amount of recipes in the database.
+            2. 
+        </AdminPanel
+</MainPage>
+
+**GUEST**
+<RegistrationPage>
+    1. Can register.
+</RegistrationPage>
+
+<LoginPage>
+    1. Can login.
+</LoginPage>
+
+<MainPage>
+    1. See & use the navigation(other pages/registratior).
+    3. View recipes
+    4. Use filters
+</MainPage>
+
+<RecipePage>
+    1. View recipe steps.
+    2. View ingredients.
+    3. View nutritional values.
+    4. Use pagination function to access next recipe.
+</RecipePage>
+
+**LOGGED IN USER**
+<MainPage>
+**EVERYTHING GUEST CAN DO EXCEPT FOR REGISTER/LOGIN**
+    1. See & use navigation(other pages/profile).
+    2. Access to profile link.
+    3. Add recipes to favorites.
+</MainPage>
+
+<RecipePage>    
+    1. Add to favorites from here.
+    2. View everything the GUEST could.
+</RecipePage>
+
+<FavoritesPage>
+    1. View all favorited recipes.
+    2. Remove selected recipe from favorites.
+</FavoritesPage>

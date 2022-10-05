@@ -1,5 +1,5 @@
 type Recipe = {
-    id: string,
+    id: any,
     title: string,
     description: string,
     images: string[],

@@ -1,5 +1,4 @@
-import config from "config";
-
+import config from 'config';
 
 const { serverAddress } = config;
 const collectionName = 'recipes';
@@ -14,17 +13,16 @@ const fetchMany = async (urlParams?: string): Promise<Recipe[]> => {
   return fetchedRecipe as Recipe[];
 };
 
-const fetchCalorieRange = async (): Promise<NumberRange> => {
-  const sortedCalories = (await fetchMany())
-    .map((recipe) => recipe.calories)
-    .sort((x, y) => x - y);
+const fetchOne = async (id: any): Promise<Recipe> => {
+  const response = await fetch(`${serverAddress}/${collectionName}/${id}`);
+  const fetchedRecipe = await response.json();
 
-  return [sortedCalories[0], sortedCalories[sortedCalories.length - 1]];
-};
+  return fetchedRecipe as Recipe;
+}; 
 
 const RecipeService = {
   fetchMany,
-  fetchCalorieRange,
+  fetchOne,
 };
 
 export default RecipeService;

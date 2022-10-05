@@ -1,7 +1,7 @@
 {
   "recipes": [
     {
-      "id": "5154E9B3-8BD7-3C0A-E142-E4848C147243",
+      "id": "5154E9B38BD",
       "title": "Potato pancakes",
       "description": "Using starchy potatoes is essential for making German potato pancakes. Russet, Idaho and Yukon Gold potatoes all work.",
       "images": [
@@ -19,7 +19,7 @@
       "servingSize": "3"
     },
     {
-      "id": "5154E9B3-8BD7-E142-E4848C147243",
+      "id": "5154E948C147243",
       "title": "Garlic-Butter Salmon Bites",
       "description": "These garlic-butter salmon bites are melt-in-your-mouth delicious, with a simple marinade of butter, lemon juice and garlic.",
       "images": [
@@ -37,7 +37,7 @@
       "servingSize": "4 1/2 oz."
     },
     {
-      "id": "8BD7-3C0A-E142-E4848C147243",
+      "id": "8B243",
       "title": "Cinnamon-Roll Overnight Oats",
       "description": "It takes just minutes to assemble this healthy no-cook breakfast, and you'll have meal-prepped grab-and-go breakfasts on hand for the rest of the week.",
       "images": [
@@ -55,7 +55,7 @@
       "servingSize": "2/3 cup"
     },
     {
-      "id": "5154E9B3-8BD7-3C0A-E142",
+      "id": "5154EE142",
       "title": "Creamy Chicken & Mushrooms",
       "description": "Whether you scored wild mushrooms at the farmers' market, found cultivated maitake or shiitake at the supermarket or just have some baby bellas on hand, this healthy creamy chicken recipe is delicious with any of them.",
       "images": [
@@ -73,7 +73,7 @@
       "servingSize": "1 cutlet & a generous 1/4 cup sauce"
     },
     {
-      "id": "5154E9B3-E142-E4848C147243",
+      "id": "5154E9B348C147243",
       "title": "Baked Banana-Nut Oatmeal Cups",
       "description": "Muffins meet oatmeal in these moist and tasty grab-and-go oatmeal cups.",
       "images": [
